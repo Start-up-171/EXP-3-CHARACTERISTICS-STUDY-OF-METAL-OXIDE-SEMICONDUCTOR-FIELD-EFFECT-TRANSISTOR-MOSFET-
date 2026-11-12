@@ -60,14 +60,8 @@ S. No.	VGS (V)	VDS (V)	ID (mA)
 Graph: Plot ID vs. VGS for constant VDS.
 B. Drain Characteristics
 S. No.	VDS (V)	VGS (V)	ID (mA)
-1			
-2			
-3			
-4			
-5			
-6			
-7			
-8			
+<img width="1920" height="1021" alt="Screenshot 2026-11-12 113301" src="https://github.com/user-attachments/assets/74cffc15-efe9-4bcf-89f1-b586883eb289" />
+	
 Repeat the observation for different constant values of VGS.
 Simulation Results
 
