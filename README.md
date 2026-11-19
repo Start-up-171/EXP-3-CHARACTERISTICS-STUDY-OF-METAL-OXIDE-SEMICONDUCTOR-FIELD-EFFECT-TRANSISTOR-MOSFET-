@@ -52,7 +52,8 @@ S. No.	VGS (V)	VDS (V)	ID (mA)
 1			
 2			
 3			
-4			
+4	<img width="1847" height="1035" alt="exp 3 circuit" src="https://github.com/user-attachments/assets/3f00e3ff-8c97-4a1e-82e8-360592284aeb" />
+		
 5			
 6			
 7			
@@ -63,7 +64,8 @@ S. No.	VDS (V)	VGS (V)	ID (mA)
 1			
 2			
 3			
-4			
+4	<img width="1846" height="1011" alt="exp 3 graph " src="https://github.com/user-attachments/assets/c2d161fa-42e1-48dc-aaa4-60326bf73f4a" />
+		
 5			
 6			
 7			
