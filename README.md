@@ -54,8 +54,7 @@ S. No.	VGS (V)	VDS (V)	ID (mA)
 3			
 4			
 5			
-<img width="1918" height="1018" alt="Screenshot 2026-11-12 105138" src="https://github.com/user-attachments/assets/28a9e6ea-3796-416d-afd5-1d28a7036b31" />
-
+<img width="1847" height="1035" alt="exp 3 circuit" src="https://github.com/user-attachments/assets/c92531d8-91e8-48de-ab08-6b2ce6fd86d5" />
 6			
 7			
 8			
@@ -65,7 +64,7 @@ S. No.	VDS (V)	VGS (V)	ID (mA)
 1			
 2			
 3			
-4			<img width="1918" height="1018" alt="Screenshot 2026-11-12 105138" src="https://github.com/user-attachments/assets/aafd3be5-229e-42d2-a4f8-8764e148cb0d" />
+   <img width="1846" height="1011" alt="exp 3 graph " src="https://github.com/user-attachments/assets/f20f8c26-cf13-4bc8-ac67-972636c93867" />
 
 5			
 6			
