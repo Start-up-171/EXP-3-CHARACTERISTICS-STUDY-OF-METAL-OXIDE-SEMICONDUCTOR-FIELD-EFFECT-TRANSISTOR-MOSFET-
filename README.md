@@ -51,7 +51,8 @@ A. Transfer Characteristics
 S. No.	VGS (V)	VDS (V)	ID (mA)
 1			
 2			
-3			
+3		<img width="1907" height="1013" alt="exp 3 3" src="https://github.com/user-attachments/assets/f41327ca-e951-451b-914a-d74b70d1645a" />
+	
 4			
 5			
 6			
